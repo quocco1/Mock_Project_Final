@@ -1,0 +1,50 @@
+CATEGORICAL VARIABLE SUMMARY (Grouped by Passenger_ID)
+============================================================
+
+--- SKIPPED First_Name (distinct=8437) ---
+
+--- SKIPPED Last_Name (distinct=41658) ---
+
+=== Gender (distinct=2) ===
+Male: 49598
+Female: 49021
+
+--- SKIPPED Nationality (distinct=240) ---
+
+--- SKIPPED Airport_Name (distinct=9062) ---
+
+--- SKIPPED Airport_Country_Code (distinct=235) ---
+
+--- SKIPPED Country_Name (distinct=235) ---
+
+=== Airport_Continent (distinct=6) ===
+NAM: 32033
+AS: 18637
+OC: 13866
+EU: 12335
+AF: 11030
+SAM: 10718
+
+=== Continents (distinct=6) ===
+North America: 32033
+Asia: 18637
+Oceania: 13866
+Europe: 12335
+Africa: 11030
+South America: 10718
+
+--- SKIPPED Departure_Date (distinct=364) ---
+
+--- SKIPPED Arrival_Airport (distinct=9024) ---
+
+--- SKIPPED Pilot_Name (distinct=98605) ---
+
+=== Flight_Status (distinct=3) ===
+Cancelled: 32942
+On Time: 32846
+Delayed: 32831
+
+=== Today (distinct=1) ===
+2026-01-24: 98619
+
+--- SKIPPED Arrival_Country (distinct=234) ---
